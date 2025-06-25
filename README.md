@@ -1,6 +1,6 @@
 # Treinando Lógica
 
-Repositório para exercícios e projetos de lógica de programação utilizando .NET, usando como base esse matérial da FACCAT
+Repositório para exercícios e projetos de lógica de programação utilizando C# e .NET, usando como base esse matérial da FACCAT
 
 ```
     https://fit.faccat.br/~fpereira/apostilas/exerc_resp_alg_mar2007.pdf
@@ -21,7 +21,7 @@ Praticar e aprimorar habilidades de lógica de programação com exemplos e desa
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/dolfo-melo/TreinandoLogica.git
+    git clone https://github.com/dolfo-melo/Treinando-LogicaCS.git
     ```
 2. Abra a solução no Visual Studio ou VS Code.
 3. Execute o projeto desejado.
